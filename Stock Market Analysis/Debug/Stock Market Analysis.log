@@ -1,0 +1,26 @@
+﻿  Stock Market Analysis.cpp
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(58,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(122,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(206,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(208,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(221,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(324,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(326,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(339,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(187,12): warning C4101: 'temp': unreferenced local variable
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(453,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(455,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(468,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(571,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(573,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(586,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(434,12): warning C4101: 'temp': unreferenced local variable
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(681,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(711,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(836,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(960,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(1002,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(1072,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Stock Market Analysis.cpp(1124,23): warning C4018: '<': signed/unsigned mismatch
+  Stock Market Analysis.vcxproj -> C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Debug\Stock Market Analysis.exe

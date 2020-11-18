@@ -1,0 +1,2 @@
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Debug\Stock Market Analysis.exe
+C:\Users\taffo\Desktop\OOP sem 3\Stock Market Analysis\Debug\Stock Market Analysis.pdb
